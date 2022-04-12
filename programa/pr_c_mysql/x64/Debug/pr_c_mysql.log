@@ -1,0 +1,3 @@
+﻿  pr_c_mysql.cpp
+C:\Users\Labymed\Downloads\pr_c-_myql_poo-main\pr_c-_myql_poo-main\pr_c_mysql\pr_c_mysql.cpp(24,64): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'Clientes'
+C:\Users\Labymed\Downloads\pr_c-_myql_poo-main\pr_c-_myql_poo-main\pr_c_mysql\pr_c_mysql.cpp(24,64): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
